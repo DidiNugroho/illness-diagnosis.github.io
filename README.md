@@ -1,2 +1,2 @@
-# illness-diagnosis.github.io
-Common Illness Diagnosis Website
+# sickness-symptoms
+Web Pencarian Gejala Penyakit
