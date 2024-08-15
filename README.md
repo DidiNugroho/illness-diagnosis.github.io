@@ -1,2 +1,3 @@
-# sickness-symptoms
-Web Pencarian Gejala Penyakit
+Common Illness Diagnosis
+
+Common Illness Diagnosis Website
